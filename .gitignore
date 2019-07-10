@@ -37,3 +37,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 node_modules
+.DS_Store
