@@ -1,0 +1,11 @@
+export const GET_RANDOM_JOKES = "GET_RANDOM_JOKES";
+export const GET_CATEGORIZED_JOKES = "GET_CATEGORIZED_JOKES";
+export const GET_CATEGORIES = "GET_CATEGORIES";
+export const SET_LOADING = "SET_LOADING";
+export const SAVE_JOKE = "SAVE_JOKE";
+export const DELETE_JOKE = "DELETE_JOKE";
+export const EDIT_JOKE = "EDIT_JOKE";
+export const CLEAR_JOKE = "CLEAR_JOKE";
+export const GET_ERROR = "GET_ERROR";
+export const UPDATE_JOKE = " UPDATE_JOKE ";
+export const SET_BTN_NAME = "SET_BTN_NAME";

@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: rgba(255, 255, 255, 0.897);
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.landing {
+  position: relative;
+  background: url("./img/smiley-1039937_1280.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin-top: -24px;
+  margin-bottom: -50px;
+}
+
+.landing-inner {
+  padding-top: 18%;
+  padding-right: 12%;
+}
+
+.hr-ab {
+  background-color: skyblue;
+}
+
+.set {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  border: 3px solid white;
+}
+
+.row {
+  margin-top: -24px;
+}
+
+.bg-f {
+  background: linear-gradient(to right, #24c6dc, #514a9d);
+}
