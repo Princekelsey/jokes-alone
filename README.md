@@ -1,3 +1,17 @@
+A simple application where you can search for random jokes <br>
+or jokes from categories using chuk Norris api. <br>
+
+View live application on : https://joke-app-9535e.firebaseapp.com/
+
+## Tech Stacks
+
+React
+Redux
+Bootstrap
+Axios
+Enzyme/Jest for testing
+Firebase for hosting
+
 ## Available Scripts
 
 In the project directory, you can run:
